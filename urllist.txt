@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/15350484/download-image-from-webpage-using-python
+https://docs.python.org/2/library/string.html
