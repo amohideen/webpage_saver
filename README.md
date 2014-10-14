@@ -4,3 +4,8 @@ Tech Stack :
 Python 2.7
 urllib2
 beautifulsoup
+
+This for now works only with urls ending with .com and .org.
+Also static files with absolute and ../ are not considered.
+Only assets with urls like /static/css/somefile.css are considered.
+Example url : https://wiki.python.org/moin/Python2orPython3
